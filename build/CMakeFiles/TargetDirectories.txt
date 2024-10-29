@@ -1,0 +1,3 @@
+/home/variable/Desktop/linux-monitoring/build/CMakeFiles/monitor.dir
+/home/variable/Desktop/linux-monitoring/build/CMakeFiles/edit_cache.dir
+/home/variable/Desktop/linux-monitoring/build/CMakeFiles/rebuild_cache.dir
